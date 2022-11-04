@@ -1,0 +1,15 @@
+C:\Users\shinc\Desktop\Demo C#\bin\Debug\net6.0\Demo C#.exe
+C:\Users\shinc\Desktop\Demo C#\bin\Debug\net6.0\Demo C#.deps.json
+C:\Users\shinc\Desktop\Demo C#\bin\Debug\net6.0\Demo C#.runtimeconfig.json
+C:\Users\shinc\Desktop\Demo C#\bin\Debug\net6.0\Demo C#.dll
+C:\Users\shinc\Desktop\Demo C#\bin\Debug\net6.0\Demo C#.pdb
+C:\Users\shinc\Desktop\Demo C#\obj\Debug\net6.0\Demo C#.csproj.AssemblyReference.cache
+C:\Users\shinc\Desktop\Demo C#\obj\Debug\net6.0\Demo C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shinc\Desktop\Demo C#\obj\Debug\net6.0\Demo C#.AssemblyInfoInputs.cache
+C:\Users\shinc\Desktop\Demo C#\obj\Debug\net6.0\Demo C#.AssemblyInfo.cs
+C:\Users\shinc\Desktop\Demo C#\obj\Debug\net6.0\Demo C#.csproj.CoreCompileInputs.cache
+C:\Users\shinc\Desktop\Demo C#\obj\Debug\net6.0\Demo C#.dll
+C:\Users\shinc\Desktop\Demo C#\obj\Debug\net6.0\refint\Demo C#.dll
+C:\Users\shinc\Desktop\Demo C#\obj\Debug\net6.0\Demo C#.pdb
+C:\Users\shinc\Desktop\Demo C#\obj\Debug\net6.0\Demo C#.genruntimeconfig.cache
+C:\Users\shinc\Desktop\Demo C#\obj\Debug\net6.0\ref\Demo C#.dll
