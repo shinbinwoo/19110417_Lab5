@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shinc\\Desktop\\C#\\C#.csproj": {}
+    "C:\\Users\\shinc\\Desktop\\SumLargeNumbers\\sumlargenumpj\\C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shinc\\Desktop\\C#\\C#.csproj": {
+    "C:\\Users\\shinc\\Desktop\\SumLargeNumbers\\sumlargenumpj\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shinc\\Desktop\\C#\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\shinc\\Desktop\\SumLargeNumbers\\sumlargenumpj\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\Users\\shinc\\Desktop\\C#\\C#.csproj",
+        "projectPath": "C:\\Users\\shinc\\Desktop\\SumLargeNumbers\\sumlargenumpj\\C#.csproj",
         "packagesPath": "C:\\Users\\shinc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shinc\\Desktop\\C#\\obj\\",
+        "outputPath": "C:\\Users\\shinc\\Desktop\\SumLargeNumbers\\sumlargenumpj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shinc\\AppData\\Roaming\\NuGet\\NuGet.Config"
